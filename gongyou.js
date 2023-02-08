@@ -4,7 +4,7 @@
 查看请求头的lanlinker-satoken          7fe0d6c0070242bf99478fc510ca6008
 export gongyouhd=''
 多账户@隔开或者换行符隔开
-每天自动抽奖
+每天自动抽奖 
 */
 
 const $ = new Env('工友会');
